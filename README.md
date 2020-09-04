@@ -16,4 +16,4 @@ The scratch file works perfectly:
 ![Scratch](https://raw.githubusercontent.com/NitroG42/WorksheetNoImportNoModule/master/assets/scratch.png)
 
 While the worksheet produces the following:
-![Worksheet](https://raw.githubusercontent.com/NitroG42/WorksheetNoImportNoModule/master/screens/worksheet.png)
+![Worksheet](https://raw.githubusercontent.com/NitroG42/WorksheetNoImportNoModule/master/assets/worksheet.png)
