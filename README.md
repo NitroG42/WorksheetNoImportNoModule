@@ -17,3 +17,9 @@ The scratch file works perfectly:
 
 While the worksheet produces the following:
 ![Worksheet](https://raw.githubusercontent.com/NitroG42/WorksheetNoImportNoModule/master/assets/worksheet.png)
+
+# Tracker
+
+https://youtrack.jetbrains.com/issue/KT-41687
+
+https://youtrack.jetbrains.com/issue/KT-41684 
